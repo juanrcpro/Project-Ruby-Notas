@@ -20,6 +20,8 @@ gem 'simple_form'
 #gem 'rails-i18n'
 #Autenticacion y plugin de logeo
 gem 'devise'
+#gema para 
+gem "cocoon"
 
 
 
